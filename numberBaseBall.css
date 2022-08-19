@@ -1,0 +1,81 @@
+.baseball-bg {
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  #baseball-answer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 10px;
+  }
+  
+  #baseball-answer2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 10px;
+  }
+  
+  .baseball-btn {
+    height: 40px;
+    justify-content: left;
+    margin-top: 20px;
+  }
+  
+  #ball-box {
+    justify-content: center;
+  }
+  
+  #ball-box div {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 15px;
+    background: green;
+  }
+  
+  #strike-box {
+    justify-content: center;
+  }
+  
+  #strike-box div {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 15px;
+    background-color: yellow;
+  }
+  
+  #outclear-box {
+    justify-content: center;
+  }
+  
+  #outclear-box div {
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 15px;
+  }
+  
+  #outclear-box div:nth-child(1) {
+    background-color: red;
+  }
+  
+  #outclear-box div:nth-child(2) {
+    background-color: blue;
+  }
+  
+  #restart {
+    max-width: 200px;
+  }
+  
+  footer {
+    background-color: #555;
+    color: white;
+    text-align: center;
+  }
+  
