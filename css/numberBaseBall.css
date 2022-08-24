@@ -74,8 +74,24 @@
   }
   
   footer {
-    background-color: #555;
+    background-color: #333;
     color: white;
     text-align: center;
   }
   
+  .information{
+    background-color: #333;
+    color: white;
+    border-top: 1px solid gray;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
+
+  .information span{
+    font-size: 20px;
+    color: red;
+  }
